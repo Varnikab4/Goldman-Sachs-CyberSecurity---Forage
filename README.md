@@ -8,6 +8,7 @@ Analysis and Finding on the given passwd_dump.txt file
 
 I have cracked some of the given passwords with the help of hashcat and john hash 
 mechanism : 
+
 123456: e10adc3949ba59abbe56e057f20f883e  
 123456789: 25f9e794323b453885f5181f1b624d0b  
 qwerty: d8578edf8458ce06fbc5bb76a58c5ca4  

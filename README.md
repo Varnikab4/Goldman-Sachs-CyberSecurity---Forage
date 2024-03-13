@@ -9,19 +9,16 @@ Analysis and Finding on the given passwd_dump.txt file
 I have cracked some of the given passwords with the help of hashcat and john hash 
 mechanism : 
 
-123456: e10adc3949ba59abbe56e057f20f883e  
+123456: e10adc3949ba59abbe56e057f20f883e     
 123456789: 25f9e794323b453885f5181f1b624d0b  
 qwerty: d8578edf8458ce06fbc5bb76a58c5ca4  
 password: 5f4dcc3b5aa765d61d8327deb882cf99  
 111111: 96e79218965eb72c92a549dd5a330112  
 12345678: 25d55ad283aa400af464c76d713c07ad  
-abc123: e99a18c428cb38d5f260853678922e03 
-
-1234567: fcea920f7412b5da7be0cf42b8c93759
-
-password1: 7c6a180b36896a0a8c02787eeafb0e4c 
-
-password!: 6c569aabbf7775ef8fc570e228c16b98 
+abc123: e99a18c428cb38d5f260853678922e03  
+1234567: fcea920f7412b5da7be0cf42b8c93759   
+password1: 7c6a180b36896a0a8c02787eeafb0e4c   
+password!: 6c569aabbf7775ef8fc570e228c16b98   
 
 Q1] Password Analysis: 
 
